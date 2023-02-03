@@ -1,0 +1,22 @@
+body{
+  background-color: #809B7E;
+}
+
+main{  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+}
+
+.inst{
+  font-family: 'Cabin Sketch', cursive;
+  color: white;
+  font-size: 28px;
+  text-align: center;
+}
+
+.map{
+text-align: center
+}
